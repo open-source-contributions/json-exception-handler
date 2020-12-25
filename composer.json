@@ -19,10 +19,10 @@
     },
     "require": {
         "php": "^7.2 || ^8.0",
-        "middlewares/utils": "^2.1",
+        "middlewares/utils": "^3.2",
         "psr/http-server-middleware": "^1.0",
-        "wyrihaximus/json-throwable": "^2.0",
-        "thecodingmachine/safe": "^0.1.5"
+        "wyrihaximus/json-throwable": "^2.0 || ^4.0",
+        "thecodingmachine/safe": "^0.1.5 || ^1.1"
     },
     "require-dev": {
         "phpunit/phpunit": "^8|^9",
